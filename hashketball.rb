@@ -5,15 +5,7 @@ def game_hash
   game[:home][:team_name] = "Brooklyn Nets"
   game[:home][:colors] = ["Black", "White"]
   game[:home][:players]= [
-    {:player_name => ["Alan Anderson", "Reggie Evans", "Brook Lopez", "Mason Plumlee", "Jason Terry"]},
-    {:number => ["0", "30", "11", "1", "31"]},
-    {:shoe =>[]},
-    {:points =>[]},
-    {:rebounds =>[]},
-    {:assists =>[]},
-    {:steals =>[]},
-    {:blocks =>[]},
-    {:slam_dunks =>[]}
+    {
   ]
   
   
