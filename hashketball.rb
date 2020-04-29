@@ -4,8 +4,8 @@ def game_hash
   game[:home] = {}
   game[:home][:team_name] = "Brooklyn Nets"
   game[:home][:colors] = ["Black", "White"]
-  game[:home][:players]= [
-    {}
+  game[:home][:players] = [
+    { }
   ]
   
   
