@@ -5,7 +5,15 @@ def game_hash
   game[:home][:team_name] = "Brooklyn Nets"
   game[:home][:colors] = ["Black", "White"]
   game[:home][:players] = [
-    {}
+  :player_name
+  :number
+  :shoe
+  :points
+  :rebounds
+  :assists
+  :steals
+  :blocks
+  :slam_dunks{}
   ]
   
   
